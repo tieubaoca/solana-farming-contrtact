@@ -1,0 +1,1 @@
+pub const PRECISION_FACTOR: u64 = 1_000_000_000;
